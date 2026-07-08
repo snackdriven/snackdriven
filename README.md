@@ -1,18 +1,15 @@
 ### snackdriven · QA engineer
 
 **I find bugs for money and introduce them for fun.**
+I practice DDD: *dopamine-driven development*. It explains the repo count.
 
-Mostly I build the tools I wished existed: QA automation, a full Claude Code toolstack, apps for brains that don't run on stock planners, and whatever annoyed me enough that week. Some of it's serious. Some of it's a Disney bracket. Both ship.
-
-**🔧 QA, automated** · *the manual version got old*
-- [`scratch-pad`](https://github.com/snackdriven/scratch-pad) · QA tooling grown into a plugin's worth of commands
-- [`qa-brain`](https://github.com/snackdriven/qa-brain) · the dashboard that's open all day on testing day
-- [`jira-local`](https://github.com/snackdriven/jira-local) · Jira, but bearable
+Mostly I build the tools I wished existed: a full Claude Code toolstack, apps for brains that don't run on stock planners, keyboard firmware I had no business writing, and the occasional bracket. Some of it's serious. Some of it's a Disney bracket. Both ship.
 
 **🤖 Claude Code toolstack** · *a second brain that lives in the terminal*
-- [`dotclaude`](https://github.com/snackdriven/dotclaude) · my whole `~/.claude`, versioned
-- [`claude-setup`](https://github.com/snackdriven/claude-setup) · one command to stand it all up on a new machine
-- [`better-buddy`](https://github.com/snackdriven/better-buddy) + [`claude-statusline`](https://github.com/snackdriven/claude-statusline) · a terminal companion and a live multi-region statusline
+- [`claude-setup`](https://github.com/snackdriven/claude-setup) · one command to stand up the whole stack on a new machine
+- [`claude-statusline`](https://github.com/snackdriven/claude-statusline) · a multi-region statusline: active ticket, context usage, now-playing, next meeting
+- [`better-buddy`](https://github.com/snackdriven/better-buddy) · a terminal companion that reacts to git events and naps
+- [`humanizer`](https://github.com/snackdriven/humanizer) · a skill that scrubs the AI tells out of writing
 
 **🧠 the productivity app I keep rebuilding** · *chasing the version my brain will actually use*
 - [`meat-suit`](https://github.com/snackdriven/meat-suit) · the one that finally stopped demanding anything: a zero-demand journal for audhd/pda/alexithymia brains. you just talk, it ghostwrites the entry.
@@ -23,10 +20,9 @@ Mostly I build the tools I wished existed: QA automation, a full Claude Code too
 
 **🎲 whimsy** · *not everything needs a reason*
 - [`disney-bracket`](https://github.com/snackdriven/disney-bracket) · 70 movies, one bracket, no good choices
-- [`roux`](https://github.com/snackdriven/roux) · a local Ollama assistant  ·  [`narrator`](https://github.com/snackdriven/narrator) · a file-based memory-vault narrator
+- [`bad-movie-bracket`](https://github.com/snackdriven/bad-movie-bracket) · 32 movies that have no business existing
+- [`slow-burn`](https://github.com/snackdriven/slow-burn) · you and Claude pass a story, each seeing only the last few lines
 
 ---
-
-The productivity cluster isn't an accident. I build for the way my brain actually works, audhd and executive dysfunction and all, because "just be more disciplined" was never going to be the fix. Turns out plenty of brains run like that.
 
 `◆ snackdriven` · [snackdriven.com](https://snackdriven.com) · *shipping too much, testing all of it*
