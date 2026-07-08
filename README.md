@@ -14,10 +14,8 @@ Mostly I build the tools I wished existed: QA automation, a full Claude Code too
 - [`claude-setup`](https://github.com/snackdriven/claude-setup) · one command to stand it all up on a new machine
 - [`better-buddy`](https://github.com/snackdriven/better-buddy) + [`claude-statusline`](https://github.com/snackdriven/claude-statusline) · a terminal companion and a live multi-region statusline
 
-**🧠 apps for brains that don't do "just use a planner"** · *built from need*
-- [`meh-trics`](https://github.com/snackdriven/meh-trics) · mood, habit, and task tracking for chaotic goblin lifestyles
-- [`dysfunction-center`](https://github.com/snackdriven/dysfunction-center) · the whole executive-function stack in one place
-- [`daybeam`](https://github.com/snackdriven/plush-galaxy) · ADHD productivity that doesn't yell all its features at once
+**🧠 the productivity app I keep rebuilding** · *chasing the version my brain will actually use*
+- [`meat-suit`](https://github.com/snackdriven/meat-suit) · the one that finally stopped demanding anything: a zero-demand journal for audhd/pda/alexithymia brains. you just talk, it ghostwrites the entry.
 
 **⌨️ reverse-engineering for spite** · *the stock software was a crime*
 - [`al80-lcd`](https://github.com/snackdriven/al80-lcd) · cracked the YUNZII AL80's LCD protocol and wrote custom QMK firmware
