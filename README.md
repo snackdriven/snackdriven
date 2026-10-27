@@ -21,6 +21,8 @@ my [Claude Code toolstack](https://github.com/snackdriven/claude-setup) sets up 
 
 ### 🎲 also in the repo pile
 
+[Daycatcher](https://github.com/snackdriven/daycatcher) is a journaling companion for the days i don’t want another check-in form.
+
 there's also a [Disney bracket](https://github.com/snackdriven/disney-bracket): 70 movies, one bracket, no good choices. and an [album poster builder](https://albums.snackdriven.com/) for arranging the records that shaped you until the grid feels spiritually correct.
 
 [Portfolio](https://snackdriven.com/portfolio/) · [Blog](https://snackdriven.com/) · [LinkedIn](https://www.linkedin.com/in/snackdriven/)
