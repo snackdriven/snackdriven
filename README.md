@@ -24,10 +24,8 @@ my [Claude Code toolstack](https://github.com/snackdriven/claude-setup) sets up 
 
 ### 🎲 also in the repo pile
 
-- [Daycatcher](https://github.com/snackdriven/daycatcher) & [day-crumbs](https://github.com/snackdriven/day-crumbs): journaling companions for the days i don't want another check-in form.
 - [spicetify-scram](https://github.com/snackdriven/spicetify-scram): toggle individual sections of Spotify's now-playing panel on and off.
 - [goblin](https://github.com/snackdriven/goblin): watches my Steam wishlist and shrieks only about new or deeper sales.
-- [Disney bracket](https://github.com/snackdriven/disney-bracket): 70 movies, one bracket, no good choices.
-- [Album poster builder](https://albums.snackdriven.com/): arrange the records that shaped you until the grid feels spiritually correct.
+- [Disney bracket](https://github.com/snackdriven/disney-bracket) & [album poster builder](https://albums.snackdriven.com/): 70 movies with no good choices, plus arranging records until the grid feels spiritually correct.
 
 [Portfolio](https://snackdriven.com/portfolio/) · [Resume](https://snackdriven.com/portfolio/resume/kayla-young-resume.pdf) · [Blog](https://snackdriven.com/) · [LinkedIn](https://www.linkedin.com/in/snackdriven/)
